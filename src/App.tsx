@@ -417,7 +417,7 @@ export default function App() {
         onMouseDown={handleMouseDown}
         onMouseMove={handleMouseMove}
         onMouseUp={handleMouseUp}
-        style={{ position: "absolute", zIndex: 1 }}
+        style={{ width: "100%", position: "absolute", zIndex: 1 }}
       />
     </div>
   );
