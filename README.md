@@ -5,7 +5,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 ## 📦 Technologies
 
 - `Vite`
-- `React.js`
+- `React`
 - `TypeScript`
 - `Rough.js`
 - `CSS`
